@@ -1,3 +1,3 @@
 # universe sql project
 
-![universe]('universe.png')
+![universe](universe.png)
